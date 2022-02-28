@@ -1,0 +1,26 @@
+{
+	"colors": {
+		"interface": "#383C4A",
+		"background": "#292C36",
+		"background_scrollbar": "#1A1C22",
+		"text": "#FFFFFF",
+		"tips": "#383C4A",
+		"tips_text": "#FFFFFF",
+		"buttons": "#5294E2",
+		"buttons_pressed": "#4B87CE",
+		"buttons_text": "#FFFFFF",
+		"boxes": "#FFFFFF",
+		"boxes_pressed": "#EBEBEB",
+		"boxes_text": "#0A0A0A",
+		"highlight": "#849FCC",
+		"highlight_text": "#FFFFFF",
+		"timeline": "#FFFFFF",
+		"alerts": "#F0FF9F",
+		"alerts_text": "#0A0A0A",
+		"timeline_text": "#0A0A0A",
+		"timeline_select": "#404454",
+		"timeline_marks": "#4367A3",
+		"timeline_select_box": "#0000FF",
+		"viewport_selection": "#FFFFFF"
+	}
+}
